@@ -1,0 +1,6 @@
+guidance==0.1.13
+pydantic
+torch
+transformers
+streamlit
+streamlit_extras
